@@ -1,0 +1,15 @@
+
+h1{
+    text-align: center;
+}
+
+ol.normal {
+    list-style-type: upper-roman;
+  }
+body{
+    width: 640px;
+    margin: 0 auto;
+    padding: 50px;
+    background-image:url("https://img.freepik.com/vector-gratis/fondo-geometrico-abstracto-estructura-metalica_52683-59421.jpg") ;
+
+}
